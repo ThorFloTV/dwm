@@ -1,2 +1,2 @@
 # Yet another dwm config
-My custom dwm Setup
+My custom dwm build
