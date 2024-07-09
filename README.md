@@ -1,2 +1,2 @@
-# dwn
+# yadwm
 My custom dwm Setup
